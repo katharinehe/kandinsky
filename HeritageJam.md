@@ -1,3 +1,5 @@
+(Bear with me, I don't understand markdown yet)
+
 Title: Historic Newspapers and Bones
 
 Beginning sample: Upstate New York Newspaper Archives
